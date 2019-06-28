@@ -1,0 +1,7 @@
+body {
+    background: url(img/kereta9.png) top left no-repeat;
+    -webkit-background-size: 50% 50%;
+    -moz-background-size: 50% 50%;
+    -o-background-size: 95% 95%;
+    background-size: 20% 20%;
+}
